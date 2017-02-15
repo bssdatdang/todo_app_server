@@ -1,0 +1,231 @@
+engin Pty Ltd
+ABN: 70 080 250 371
+Tax Invoice/Statementwww.engin.com.au
+1300 305 000
+$20.57
+Previous Balance
+Payments Received $20.78
+CR $20.78
+Balance Forward $0.00
+This Bill From 24/03/2016 to 23/04/2016
+Page 1 of 6Previously Total Due
+Total Due
+$20.57Balance Forward This Bill
+$0.00
+$20.57Account No Invoice Number Date of Issue
+10067747 45094176 24/04/2016
+Due On 08 May 2016Due On
+08 May 2016Mr Rick Swancott
+136 Greenhaven Drive
+Umina Beach Nsw 2257 AUSTRALIA
+Other Credits and Charges
+$0.62
+Monthly Service & Usage Summary
+$19.95
+Total (Inc. GST)
+$20.57Total GST in this Bill $1.87
+Thank you for paying by credit card Your nominated credit card will be debited on this  date.  
+If funds are not available a late payment fee may apply.
+
+Page 2 of 6Account No Invoice Number Date of Issue
+10067747 45094176 24/04/2016
+05101520253035404550
+JUL 15 AUG 15 SEP 15 OCT 15 NOV 15 DEC 15 JAN 16 FEB 16 MAR 1605101520253035404550
+APR 16Invoice History
+$
+Payments Received
+Description Date Amount
+AMERICAN EXPRESS 07/04/2016 CR $20.78
+Total CR $20.78
+Other Credits and Charges
+Description Service Amount
+Payment Processing Fee $0.62
+$0.62
+Total
+Description ServiceMonthly Service Summary
+Amount
+engin Mobile Saver (From 24/04/16 To 23/05/16)
+0243041114 $19.95
+Ignition 129 PSTN Bundle 2 (From 24/04/16 To 23/05/16)
+0243420418 $0.00
+Staff Ignition 129 DSL Bundle 2 (From 24/04/16 To 23/05/16)
+DSL#0243420418 $0.00
+$19.95Total
+
+Page 3 of 6Account No Invoice Number Date of Issue
+10067747 45094176 24/04/2016
+Usage Summary for 0243041114
+Description Calls AmountDuration/Volume TotalDiscount
+National Calls $ 0.00$ 0.00 $ 0.0011 02:06:42
+Mobile Calls $ -17.10$ 17.10 $ 0.0026 01:35:04
+Engin to Engin & Free Calls $ 0.00$ 0.00 $ 0.001 00:20:20
+38 04:02:06Total $ -17.10 $ 0.00$ 17.10
+
+Page 4 of 6Account No Invoice Number Date of Issue
+10067747 45094176 24/04/2016
+Call Details for 0243041114
+National Calls
+Destination Date/Time Duration
+DiscountAmount Total
+00:00:050740608233 $ 0.00
+$ 0.00 $ 0.0031 Mar 20:38:15
+00:00:040740608233 $ 0.00
+$ 0.00 $ 0.0031 Mar 20:39:22
+00:00:040740608233 $ 0.00
+$ 0.00 $ 0.0031 Mar 20:42:48
+00:00:060740608233 $ 0.00
+$ 0.00 $ 0.0031 Mar 21:02:21
+00:00:050740608233 $ 0.00
+$ 0.00 $ 0.0004 Apr 11:11:42
+00:00:130740608233 $ 0.00
+$ 0.00 $ 0.0004 Apr 11:12:50
+00:48:200740608233 $ 0.00
+$ 0.00 $ 0.0004 Apr 11:55:11
+00:29:590740608233 $ 0.00
+$ 0.00 $ 0.0008 Apr 13:51:06
+00:00:090740608233 $ 0.00
+$ 0.00 $ 0.0023 Apr 11:03:29
+00:04:000740608233 $ 0.00
+$ 0.00 $ 0.0023 Apr 16:30:38
+00:43:370740608233 $ 0.00
+$ 0.00 $ 0.0023 Apr 16:39:53
+Total (inc GST)
+$ 0.00 $ 0.00 $ 0.0011 02:06:42
+Mobile Calls
+Destination Date/Time Duration
+DiscountAmount Total
+0468937353 00:00:09 $ 0.00
+$ 0.15 $ -0.1531 Mar 18:37:20
+0404089530 00:00:28 $ 0.00
+$ 0.15 $ -0.1531 Mar 20:40:37
+0409129049 00:18:18 $ 0.00
+$ 2.85 $ -2.8531 Mar 20:43:52
+0479034684 00:00:17 $ 0.00
+$ 0.15 $ -0.1503 Apr 13:27:21
+0411076099 00:00:07 $ 0.00
+$ 0.15 $ -0.1503 Apr 15:36:23
+0417735412 00:00:08 $ 0.00
+$ 0.15 $ -0.1504 Apr 10:15:17
+0407574687 00:08:53 $ 0.00
+$ 1.35 $ -1.3505 Apr 07:31:46
+0407574687 00:00:12 $ 0.00
+$ 0.15 $ -0.1505 Apr 16:38:05
+0407574687 00:00:42 $ 0.00
+$ 0.15 $ -0.1505 Apr 16:38:35
+0407574687 00:00:56 $ 0.00
+$ 0.15 $ -0.1505 Apr 16:39:46
+0417735412 00:01:42 $ 0.00
+$ 0.30 $ -0.3006 Apr 13:48:51
+0407574687 00:00:01 $ 0.00
+$ 0.15 $ -0.1514 Apr 12:03:57
+0407574687 00:00:05 $ 0.00
+$ 0.15 $ -0.1514 Apr 12:04:16
+0407574687 00:00:07 $ 0.00
+$ 0.15 $ -0.1514 Apr 12:37:37
+0407574687 00:02:14 $ 0.00
+$ 0.45 $ -0.4514 Apr 12:43:24
+0407574687 00:00:04 $ 0.00
+$ 0.15 $ -0.1515 Apr 12:27:36
+0407574687 00:00:03 $ 0.00
+$ 0.15 $ -0.1518 Apr 13:23:18
+0407574687 00:00:04 $ 0.00
+$ 0.15 $ -0.1520 Apr 10:58:55
+0413257272 00:01:16 $ 0.00
+$ 0.30 $ -0.3022 Apr 16:40:50
+0407574687 00:00:08 $ 0.00
+$ 0.15 $ -0.1522 Apr 17:50:10
+0417735412 00:00:34 $ 0.00
+$ 0.15 $ -0.1523 Apr 10:04:37
+0412513780 00:18:17 $ 0.00
+$ 2.85 $ -2.8523 Apr 10:28:27
+0413257272 00:40:03 $ 0.00
+$ 6.15 $ -6.1523 Apr 14:54:38
+0407574687 00:00:06 $ 0.00
+$ 0.15 $ -0.1523 Apr 17:51:58
+
+Page 5 of 6Account No Invoice Number Date of Issue
+10067747 45094176 24/04/2016
+0407574687 00:00:08 $ 0.00
+$ 0.15 $ -0.1523 Apr 17:53:02
+0407574687 00:00:02 $ 0.00
+$ 0.15 $ -0.1523 Apr 17:58:05
+$ 17.10 $ -17.10 $ 0.00Total (inc GST) 26 01:35:04
+Engin to Engin & Free Calls
+Destination Date/Time Duration
+DiscountAmount Total
+1800126659 00:20:20 $ 0.00
+$ 0.00 $ 0.0004 Apr 10:39:58
+Total (inc GST)
+$ 0.00 $ 0.00 $ 0.001 00:20:20
+
+YOUR MONTHLY CHARGES
+engin will charge you, monthly in advance, the Monthly
+Service Fee applicable to your pricing plan. Calls included in your 
+monthly plan will show $ 0 charge in the summary total column, if 
+you exceed your included value a charge will be displayed.  We will 
+prorate the Monthly Service Fee from the date you connect to your 
+invoice issue date.
+ACCOUNTING PERIOD
+When you receive your account some charges may refer to a prior 
+billing period. This is due to the timing of information processing. 
+They are not duplicate charges.
+HOW TO PAY YOUR BILL
+Direct Debit
+The total due of each bill is charged to your nominated credit card* 
+or bank account on or the next working day from the due date on 
+the front of this bill. This is an extremely convenient way to pay 
+your account. With an automatic payment schedule you don't have 
+to worry about remembering when your bill is due; we look after 
+that for you. We accept Visa, MasterCard, American Express and 
+Diners Club.
+Bpay
+Make a Bpay payment* via Internet or Phone banking each month 
+on or before the bill due date
+ 
+* Payments made using MasterCard or VisaCard will incur a 1% (inc 
+GST) surcharge. Payments made using American Express or Diners 
+Club will incur a 3% (inc. GST) surcharge. Payments made using 
+Bpay incur a $ 1.00 (inc GST) surcharge. This reflects the cost of 
+accepting these types of payments.  This fee will appear on the 
+next account after the bill is paid.  There is no surcharge incurred 
+when payments are made using a direct debit from your bank 
+account.
+BILL NON – PAYMENT
+If payment is not received by the bill due date for any reason, we 
+may restrict your service until your account is up to date. If you 
+don't settle your account within an agreed period, usually 7 days 
+from the bill due date, we may charge you a late payment fee or 
+suspend your service. If this happens, any outstanding amounts 
+you owe us will immediately fall due.
+ 
+PREMIUM SERVICES
+Premium Services which can include voting lines, ringtones and 
+sports scores that operate via a:”19X” number incur higher then 
+standard rates and can be either a one off or recurring cost 
+depending on the type of premium service used. The third party 
+content provider of the service determines these charges. You can 
+restrict access to these services by contacting engin customer 
+service to arrange a bar to be placed on all Premium SMS, this will 
+not affect standard SMS services.
+                  to view engins Standard form of Agreement Postal Address
+engin
+Accounts Receivable
+PO Box 631
+Collins Street West
+VIC 8007
+Customer Service and Billing 
+Enquiries
+Phone: 1300 305 000 (Free from 
+your engin service)
+Fax: (02) 8985 5888
+Hours:
+Monday - Friday 8:00am - 9:00pm
+Saturday 9:00am - 3:00pm
+EST
+Online Enquiries
+Submit an enquiry or manage your 
+usage via engin selfcare at
+Website
+Page 6 of 6my.engin.com.au
+engin.com.au
+Click here

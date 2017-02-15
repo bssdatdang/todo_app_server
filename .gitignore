@@ -1,0 +1,15 @@
+# Editor IDE
+.idea/
+
+# temporary file
+app/
+
+# Library
+vendor/
+node_modules/
+
+# File
+composer.lock
+.env
+Homestead.yaml
+Homestead.json
